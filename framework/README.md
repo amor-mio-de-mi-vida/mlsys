@@ -2,7 +2,8 @@
 
 ## Pytorch
 
+**minitorch toturial**
 
-
+[https://minitorch.github.io]()
 
 ## Tensorflow
